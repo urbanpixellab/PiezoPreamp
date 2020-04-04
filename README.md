@@ -8,5 +8,6 @@ http://tagboardeffects.blogspot.com/2014/04/acoustic-piezo-preamp.html
 
 http://www.richardmudhar.com/blog/using-piezo-contact-mics-right/
 https://www.cbgitty.com/news/electronics-pickup-harness-disk-piezo-capacitor/
+https://www.harmonycentral.com/forums/topic/1531094-best-diy-piezo-preampbuffer-school-me-on-impedance/
 
 Next step is to build one with a fet and compare the quality.
