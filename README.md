@@ -2,6 +2,8 @@
 a simple preamp for piezo disks based on the tl071 opamp.
 I only had a tl072, so i used this one.
 
+![Schematic]("Schematic.png")
+
 ## Some links which i used for development
 https://www.eleccircuit.com/acoustic-guitar-pickup-circuit-using-tl071/
 http://tagboardeffects.blogspot.com/2014/04/acoustic-piezo-preamp.html
